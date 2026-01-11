@@ -7,7 +7,7 @@ Given a person’s **weight (kg)**, the notebook learns a line **y = mx + b** to
 
 ## 🔗 Quick Access
 
-[![📂 View Repository](https://github.com/963n/Gradient-Descent-Linear-Regression-No-Libraries-/blob/main/README.md)
+[![📂 View Repository][(https://img.shields.io/badge/View_on-GitHub-black?style=for-the-badge&logo=github)](https://github.com/963n/Gradient-Descent-Linear-Regression-No-Libraries-/blob/main/README.md)
 
 
 ---
