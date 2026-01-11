@@ -11,7 +11,12 @@ Given a person’s **weight (kg)**, the notebook learns a line **y = mx + b** to
 
 ---
 
+## 🎓 Why Implement Linear Regression From Scratch?
 
+Implementing Linear Regression from scratch is valuable academically because it transforms the model from a **black-box tool** into a **fully understood algorithm**. Instead of calling a library function, we explicitly define the **loss function (MSE)**, compute the **gradients**, and apply **gradient descent** updates. This builds strong intuition about **how learning happens**, how parameters converge, and why choices like the **learning rate** and **feature scaling** affect performance.  
+
+Most importantly, this foundation generalizes to more advanced ML methods (e.g., **logistic regression** and **neural networks**), where training also relies on the same optimization principles.
+---
 ## 🧠 How It Works
 
 ### 1) Dataset
